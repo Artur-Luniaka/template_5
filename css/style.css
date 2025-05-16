@@ -118,6 +118,15 @@ nav {
   justify-content: space-between;
   flex-direction: row-reverse;
   align-items: center;
+  gap: 15px;
+}
+
+.logo {
+  display: none;
+
+  @media (min-width: 905px) {
+    display: block;
+  }
 }
 
 .logo a {
@@ -125,6 +134,13 @@ nav {
   font-size: 1.5rem;
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+.logo-img {
+  object-fit: cover;
+  border-radius: 10px;
+  height: 80px;
+  width: 150px;
 }
 
 .nav-links {
@@ -175,7 +191,7 @@ nav {
 .hero-content {
   display: flex;
   align-items: center;
-  flex-direction: row-reverse;
+  flex-direction: column;
   gap: 40px;
 }
 
@@ -184,8 +200,8 @@ nav {
 }
 
 .hero-image {
-  width: 560px;
-  height: 380px;
+  width: 600px;
+  height: 440px;
   object-fit: cover;
   object-position: center;
   border-radius: var(--border-radius);
@@ -293,7 +309,7 @@ nav {
 
 .features-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   gap: 30px;
 }
 
@@ -312,7 +328,7 @@ nav {
 
 .feature img {
   width: 100%;
-  height: 180px;
+  height: 300px;
   object-fit: cover;
 }
 

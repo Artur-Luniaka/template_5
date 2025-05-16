@@ -1,6 +1,6 @@
 {
   "global": {
-    ".logo a": "CHINESE CHEF DUDU",
+    ".logo a": "Draw Weapon Fight Party",
     ".domain-name a": "DOMAIN.COM",
     ".footer-contact": {
       "html": "<p>Email: <a href=\"mailto:contact@domain.com\">contact@domain.com</a></p><p>Phone: <a href=\"tel:+61412729618\">+61 412 729 618</a></p><p>Address: 123 Pitt Street, Sydney, NSW 2000, Australia</p>"
@@ -9,45 +9,45 @@
   },
   "pages": {
     "index.html": {
-      "title": "Chinese Food - Chef Dudu Game | Cook & Serve",
-      "description": "Play Chinese Food - Chef Dudu and become a master chef! Cook delicious Chinese dishes, serve customers, and manage your time in this fun cooking game.",
+      "title": "Draw Weapon Fight Party - Create & Battle!",
+      "description": "Play Draw Weapon Fight Party and unleash your creativity! Draw your own weapons, enter crazy arena battles, and defeat your opponents with style.",
       "content": {
-        ".game-title": "Chinese Food - Chef Dudu",
-        ".game-subtitle": "Cook, Serve, and Delight!",
-        ".game-tagline": "Chop. Fry. Serve. Repeat.",
-        ".game-description": "Step into the kitchen with Chef Dudu and cook your way through an exciting Chinese restaurant! Prepare authentic meals, serve hungry customers, and sharpen your culinary skills in this fast-paced cooking game."
+        ".game-title": "Draw Weapon Fight Party",
+        ".game-subtitle": "Draw. Fight. Dominate!",
+        ".game-tagline": "Create your weapon and conquer the arena!",
+        ".game-description": "Step into the wildest battle arena where your imagination is your weapon! Draw anything from frying pans to laser swords, then fight hilarious opponents in chaotic, fast-paced duels. Can your weapon design win the fight?"
       }
     },
     "how-to-play.html": {
-      "title": "How to Play - Chinese Food Chef Dudu",
-      "description": "Learn how to play Chinese Food - Chef Dudu. Understand the controls, game mechanics, and tips to keep your customers happy and your kitchen running smoothly.",
+      "title": "How to Play - Draw Weapon Fight Party",
+      "description": "Learn how to play Draw Weapon Fight Party. Discover how to draw weapons, fight in the arena, and become the last one standing!",
       "content": {
         ".page-header h1": "How to Play",
-        ".page-header p": "Master your cooking skills and serve your customers in Chinese Food - Chef Dudu"
+        ".page-header p": "Sketch your weapon, enter the arena, and defeat your rivals in Draw Weapon Fight Party!"
       }
     },
     "news.html": {
-      "title": "News - Chinese Food Chef Dudu Game",
-      "description": "Check out the latest updates and features for Chinese Food - Chef Dudu. Stay tuned for new recipes, levels, and challenges.",
+      "title": "News - Draw Weapon Fight Party",
+      "description": "Check out the latest updates and features for Draw Weapon Fight Party. Discover new arenas, weapon styles, and challenges.",
       "content": {
         ".page-header h1": "Game News",
-        ".page-header p": "Stay updated with new features, improvements, and fun updates in Chinese Food - Chef Dudu"
+        ".page-header p": "Stay tuned for exciting updates, new weapons, and creative content in Draw Weapon Fight Party."
       }
     },
     "contacts.html": {
-      "title": "Contact Us - Chinese Food Chef Dudu",
-      "description": "Reach out to the team behind Chinese Food - Chef Dudu for any support, suggestions, or questions.",
+      "title": "Contact Us - Draw Weapon Fight Party",
+      "description": "Reach out to the team behind Draw Weapon Fight Party for support, suggestions, or questions.",
       "content": {
         ".page-header h1": "Contact Us",
-        ".page-header p": "Questions or feedback? We'd love to hear from you!"
+        ".page-header p": "Got feedback or a cool weapon idea? We'd love to hear from you!"
       }
     },
     "disclaimer.html": {
-      "title": "Disclaimer - Chinese Food Chef Dudu Game",
-      "description": "Disclaimer and terms for using the Chinese Food - Chef Dudu game and website.",
+      "title": "Disclaimer - Draw Weapon Fight Party",
+      "description": "Disclaimer and terms for using the Draw Weapon Fight Party game and website.",
       "content": {
         ".page-header h1": "Disclaimer",
-        ".page-header p": "Important legal information and terms of use"
+        ".page-header p": "Important legal info and terms of use for Draw Weapon Fight Party."
       }
     }
   }
