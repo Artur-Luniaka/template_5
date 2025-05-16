@@ -79,7 +79,6 @@ function renderNewsItems(newsItems, page = 1, itemsPerPage = 6) {
                 <div class="news-date">${formatDate(item.date)}</div>
                 <h3 class="news-title">${item.title}</h3>
                 <p class="news-excerpt">${item.excerpt}</p>
-                <span class="news-category">${item.category}</span>
             </div>
         `;
 

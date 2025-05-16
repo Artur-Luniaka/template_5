@@ -2,99 +2,51 @@
   "news": [
     {
       "id": 1,
-      "title": "Chinese Food – Chef Dudu Launches Today!",
+      "title": "Draw Weapon Fight Party Launches Today!",
       "date": "2025-12-01",
-      "excerpt": "Become Chef Dudu! Cook delicious Chinese dishes, serve customers, and manage your restaurant.",
+      "excerpt": "Grab your pen and draw wild weapons to crush your opponents in fast-paced battles!",
       "image": "images/news-1.jpg",
       "category": "Updates"
     },
     {
       "id": 2,
-      "title": "New Recipes Added to the Game",
+      "title": "New Weapon Shapes Added!",
       "date": "2025-12-05",
-      "excerpt": "Test your cooking skills with new traditional and modern Chinese recipes.",
+      "excerpt": "Discover crazy new weapon templates — from laser blades to frying pans!",
       "image": "images/news-2.jpg",
       "category": "Updates"
     },
     {
       "id": 3,
-      "title": "Chef Competition Announced: Win Exclusive Prizes!",
+      "title": "Drawing Duel Tournament: Win Epic Rewards!",
       "date": "2025-12-10",
-      "excerpt": "Join the chef competition, cook fast and well to climb the leaderboard and win exclusive rewards!",
+      "excerpt": "Enter the arena, draw your weapon, and prove you're the ultimate fighter-artist!",
       "image": "images/news-3.jpg",
       "category": "Events"
     },
     {
       "id": 4,
-      "title": "Meet the Chef Dudu Dev Team",
+      "title": "Meet the Developers Behind the Mayhem",
       "date": "2025-12-12",
-      "excerpt": "Get to know the creators behind the game and learn about our future plans.",
+      "excerpt": "Learn the story behind the game and what inspired our crazy weapon ideas.",
       "image": "images/news-4.png",
       "category": "Community"
     },
     {
       "id": 5,
-      "title": "Performance Update: Smoother Gameplay",
+      "title": "Performance Boost: Smoother Fights!",
       "date": "2025-12-15",
-      "excerpt": "Optimized game performance for all devices — enjoy cooking without delays!",
+      "excerpt": "Improved animations and faster load times — now your battles are even more intense!",
       "image": "images/news-5.png",
       "category": "Updates"
     },
     {
       "id": 6,
-      "title": "Community Spotlight: Amazing Fan Creations",
+      "title": "Fan Art Spotlight: Insane Weapon Designs",
       "date": "2025-12-18",
-      "excerpt": "Check out incredible fan art and share your creations for a chance to be featured!",
+      "excerpt": "Check out awesome fan-made weapons and submit your own creations!",
       "image": "images/news-6.jpg",
       "category": "Community"
-    },
-    {
-      "id": 7,
-      "title": "Holiday Event: Chef Dudu’s Festive Banquet",
-      "date": "2025-12-20",
-      "excerpt": "Join the holiday event, prepare special dishes, and earn unique seasonal rewards!",
-      "image": "images/news-7.jpg",
-      "category": "Events"
-    },
-    {
-      "id": 8,
-      "title": "Mobile Version Now Available on iOS and Android",
-      "date": "2025-12-22",
-      "excerpt": "Take your favorite Chinese food game anywhere! Download now on App Store or Google Play.",
-      "image": "images/news-8.jpg",
-      "category": "Updates"
-    },
-    {
-      "id": 9,
-      "title": "Winter Cooking Challenge",
-      "date": "2025-12-26",
-      "excerpt": "Join the winter challenge: complete daily tasks and earn amazing prizes!",
-      "image": "images/feature-1.png",
-      "category": "Events"
-    },
-    {
-      "id": 10,
-      "title": "Community Q&A: Your Questions Answered",
-      "date": "2025-12-28",
-      "excerpt": "Answers to the most frequently asked questions about game mechanics and updates.",
-      "image": "images/feature-2.png",
-      "category": "Community"
-    },
-    {
-      "id": 11,
-      "title": "Coming Soon: New Chef Dudu Skins",
-      "date": "2025-12-30",
-      "excerpt": "Customize your chef with stylish new skins coming in the January update.",
-      "image": "images/feature-3.png",
-      "category": "Updates"
-    },
-    {
-      "id": 12,
-      "title": "2026 Roadmap: What’s Next",
-      "date": "2025-12-31",
-      "excerpt": "New levels, events, and features — check out our plans for the upcoming year.",
-      "image": "images/feature-4.png",
-      "category": "Updates"
     }
   ]
 }
