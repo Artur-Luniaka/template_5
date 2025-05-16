@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>News - Red Ball Christmas Love Game</title>
+    <meta
+      name="description"
+      content="Latest news and updates about Red Ball Christmas Love Game - stay informed about new features, events, and game improvements."
+    />
+    <meta
+      name="keywords"
+      content="Red Ball news, Christmas game updates, holiday game news, game updates, Red Ball Christmas"
+    />
+
+    <!-- Open Graph Tags -->
+    <meta property="og:title" content="News - Red Ball Christmas Love Game" />
+    <meta
+      property="og:description"
+      content="Latest news and updates about Red Ball Christmas Love Game - stay informed about new features, events, and game improvements."
+    />
+    <meta property="og:image" content="images/red-ball-christmas-og.jpg" />
+    <meta property="og:url" content="https://domain.com/news.html" />
+    <meta property="og:type" content="website" />
+
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <div class="cookie-bar" id="cookieBar">
+      <div class="cookie-content">
+        <h3>Cookies.</h3>
+        <p>
+          By using this website you automatically accept that we use cookies.
+          <a href="#" id="whatFor">What for?</a>
+        </p>
+        <button id="acceptCookies" class="btn-primary">Accept</button>
+      </div>
+    </div>
+
+    <header>
+      <div class="container">
+        <nav>
+          <div class="logo">
+            <a href="index.html">RED BALL CHRISTMAS</a>
+          </div>
+          <div class="menu-toggle" id="menuToggle">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+          <ul class="nav-links" id="navLinks">
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="how-to-play.html">How play</a></li>
+            <li><a href="news.html">News</a></li>
+            <li><a href="disclaimer.html">Disclaimer</a></li>
+            <li><a href="contacts.html">Contacts</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="page-header">
+        <div class="container">
+          <h1>Latest News</h1>
+          <p>
+            Stay updated with the latest developments and announcements for Red
+            Ball Christmas Love Game
+          </p>
+        </div>
+      </section>
+
+      <section class="news-section">
+        <div class="container">
+          <div class="news-filter">
+            <button class="filter-btn active" data-filter="all">
+              All News
+            </button>
+            <button class="filter-btn" data-filter="updates">
+              Game Updates
+            </button>
+            <button class="filter-btn" data-filter="events">Events</button>
+            <button class="filter-btn" data-filter="community">
+              Community
+            </button>
+          </div>
+
+          <div class="news-grid" id="newsGrid">
+            <!-- News items will be dynamically loaded from JSON -->
+            <div class="news-loading">Loading news...</div>
+          </div>
+
+          <div class="pagination" id="newsPagination">
+            <!-- Pagination will be dynamically generated -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <div class="container">
+        <div class="footer-content">
+          <div class="footer-logo">
+            <a href="index.html">DOMAIN.COM</a>
+          </div>
+          <div class="footer-links">
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="how-to-play.html">How play</a></li>
+              <li><a href="news.html">News</a></li>
+              <li><a href="disclaimer.html">Disclaimer</a></li>
+              <li><a href="contacts.html">Contacts</a></li>
+            </ul>
+          </div>
+          <div class="footer-contact">
+            <p>
+              Email: <a href="mailto:contact@domain.com">contact@domain.com</a>
+            </p>
+            <p>Phone: <a href="tel:+61293744000">+61 2 9374 4000</a></p>
+            <p>Address: 48 Liverpool St, Sydney NSW 2000, Australia</p>
+          </div>
+        </div>
+        <div class="policy-container">
+          <a class="policy-link" href="privacy-policy.html">Privacy Policy</a
+          ><a class="policy-link" href="cookie-policy.html">Cookie Policy</a>
+        </div>
+        <div class="footer-bottom">
+          <p>&copy; 2025 Red Ball Christmas Love Game. All rights reserved.</p>
+        </div>
+      </div>
+    </footer>
+
+    <script src="js/script.js"></script>
+    <script src="js/news.js"></script>
+  </body>
+</html>
