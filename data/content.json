@@ -8,7 +8,7 @@
     ".footer-bottom p": "&copy; 2025 Domain.com All rights reserved."
   },
   "pages": {
-    "index.html": {
+    "./": {
       "title": "Draw Weapon Fight Party - Create & Battle!",
       "description": "Play Draw Weapon Fight Party and unleash your creativity! Draw your own weapons, enter crazy arena battles, and defeat your opponents with style.",
       "content": {

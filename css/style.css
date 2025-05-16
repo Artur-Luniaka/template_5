@@ -124,7 +124,7 @@ nav {
 .logo {
   display: none;
 
-  @media (min-width: 905px) {
+  @media (min-width: 1020px) {
     display: block;
   }
 }
@@ -158,9 +158,8 @@ nav {
   border-radius: var(--border-radius);
 }
 
-.nav-links a:hover,
-.nav-links a.active {
-  background-color: rgba(255, 255, 255, 0.1);
+.nav-links a:hover {
+  color: #f0c330;
 }
 
 .domain-name a {
@@ -378,7 +377,7 @@ footer {
 }
 
 .footer-links a:hover {
-  color: white;
+  color: #f0c330;
 }
 
 .footer-contact p {
@@ -577,6 +576,27 @@ footer {
   padding: 40px;
   font-size: 1.2rem;
   color: #777;
+}
+
+/* Disclaimer Page Styles */
+
+.disclaimer-content {
+  padding-top: 40px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.disclaimer-item {
+  margin-bottom: 40px;
+}
+
+.disclaimer-item h2 {
+  margin-bottom: 15px;
+  color: var(--secondary-color);
+}
+
+.disclaimer-item p {
+  margin-bottom: 10px;
 }
 
 .pagination {
@@ -928,7 +948,7 @@ footer {
   color: var(--light-color);
   transition: color 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
   &:hover {
-    color: var(--accent-color);
+    color: #f0c330;
   }
 }
 

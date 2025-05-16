@@ -97,7 +97,7 @@ function loadContent() {
 // Update page content with JSON data
 function updatePageContent(data) {
   // Get current page
-  const currentPage = window.location.pathname.split("/").pop() || "index.html";
+  const currentPage = window.location.pathname.split("/").pop() || "./";
 
   // Update page-specific content
   if (data.pages && data.pages[currentPage]) {
